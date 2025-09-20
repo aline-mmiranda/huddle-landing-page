@@ -1,0 +1,55 @@
+@media screen and (min-width: 1024px) {
+    body {
+        background: var(--color-dark) url("../images/bg-desktop.svg") center no-repeat;
+    }
+
+    .container {
+        width: 90%;
+    }
+
+    .main .info {
+        flex-direction: row;
+    }
+
+     .main .info .info-image {
+        max-width: 70rem;
+     }
+
+    .main .info .info-text {
+        align-items: flex-start;
+        text-align: left;
+        gap: 3rem;
+        max-width: 52.5rem;
+    }
+
+    .main .info .info-text h1 {
+        font-size: 4rem;
+    }
+
+    .main .info .info-text p {
+        font-size: 1.8rem;
+    }
+
+    .main .info .info-text a {
+        font-size: 1.6rem;
+        padding: 1.5rem 6.5rem;
+        border-radius: 2.8rem;
+    }
+
+    .footer {
+        justify-content: flex-end;
+        padding: 0;
+        margin-bottom: 4rem;
+    }
+
+    .footer .social-media {
+        align-self: flex-end;
+        gap: 1.5rem;
+    }
+
+    .footer .social-media a {
+        font-size: 1.8rem;
+        width: 4rem;
+        height: 4rem;
+    }
+}
