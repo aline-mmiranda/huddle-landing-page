@@ -26,7 +26,7 @@ O desenvolvimento foi feito **mobile first**, garantindo uma experiência fluida
 
 ## 🌐 Acesse o projeto online
 
-🔗 [Clique aqui para ver o projeto funcionando](https://SEU-LINK-GITHUB-PAGES)
+🔗 [Clique aqui para ver o projeto funcionando](https://aline-mmiranda.github.io/huddle-landing-page/)
 
 
 
